@@ -1,7 +1,7 @@
 /*
- * File: shell_err_msgs1.c
- * Auth: Jamiu Ismail
-	* 						Suara Ayomide
+ * File: helper.c
+ * Auth: Mustapha Sodiq Abuabakar
+ *       Kiisi Felix Destiny
  */
 
 #include "shell.h"
