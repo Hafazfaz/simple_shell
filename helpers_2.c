@@ -1,7 +1,7 @@
 /*
  * File: helpers_2.c
- * Auth: Suara Ayomide
- *       Ismail Jamiu
+ * Auth: Mustapha Sodiq Abuabakar
+ *       Kiisi Felix Destiny
  */
 
 #include "shell.h"
