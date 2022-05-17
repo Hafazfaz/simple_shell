@@ -1,7 +1,7 @@
 /*
- * File: linkedlist.c
- * Auth: Suara Ayomide
- *       Ismail Jamiu
+ * File: helper.c
+ * Auth: Mustapha Sodiq Abuabakar
+ *       Kiisi Felix Destiny
  */
 
 #include "shell.h"
