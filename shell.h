@@ -2,9 +2,9 @@
 #define _SHELL_H_
 
 /*
- * File: shell.h
-* Auth: Jamiu Ismail
-	* 						Suara Ayomide
+ * File: helper.c
+ * Auth: Mustapha Sodiq Abuabakar
+ *       Kiisi Felix Destiny
  */
 
 #include <fcntl.h>
