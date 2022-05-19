@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* **Suara Ayomide** **||** [Github](https://github.com/Aysuarex) **|** [Twitter](https://twitter.com/Aysuarex) **|** [email](aysuarex@gmail.com)  
-* **Ismail Jamiu** **||** [Github](https://github.com/phantware) **|** [Twitter](https://twitter.com/IsmailJamiuBab1) **|** [email](phantmoney2011@gmail.com)
+* **Mustapha Sodiq Abubakar** **||** [Github](https://github.com/Hafazfaz) **|** [Twitter](https://twitter.com/Hafazfaz) **|** [email](mustaphasodiq.hafiz@gmail.com)  
+* **Kiisi Felix Destiny** **||** [Github](https://github.com/kiisi-felix-destiny) **|** [Twitter](https://twitter.com/) **|** [email](kiisifelix06@gmail.com@gmail.com)
 
 ## Acknowledgements :pray:
 
